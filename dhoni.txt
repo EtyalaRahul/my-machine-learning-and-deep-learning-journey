@@ -1,0 +1,15 @@
+Mahendra Singh Dhoni, commonly known as MS Dhoni,
+is a former Indian international cricketer and captain.
+He led India to three ICC trophies:
+- ICC T20 World Cup 2007
+- ICC Cricket World Cup 2011
+- ICC Champions Trophy 2013
+
+Dhoni is known for his calm attitude,
+sharp decision making, and finishing ability.
+He also served as a wicket-keeper batsman
+and is regarded as one of the greatest captains
+in the history of the sport.
+
+This is a sample file used to test
+reading large files line by line in Python.
